@@ -1,0 +1,106 @@
+---
+layout: base
+---
+
+{% block head %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "mainEntityOfPage": {"@type": "WebPage", "@id": "{{ site.url }}{{ page.url }}"},
+  "headline": "{{ title }}",
+  "description": "{{ excerpt or description or site.description }}",
+  "image": "{{ image or site.logo }}",
+  "author": {"@type": "Person", "name": "{{ author or site.author.name }}"},
+  "publisher": {"@type": "Organization", "name": "{{ site.name }}", "logo": {"@type": "ImageObject", "url": "{{ site.logo }}"}},
+  "datePublished": "{{ date | isoDate }}",
+  "dateModified": "{{ date | isoDate }}"
+}
+</script>
+{% endblock %}
+
+<article class="post-article" data-slug="{{ page.fileSlug }}">
+  <header class="post-header">
+    <div class="container">
+      <h1>{{ title }}</h1>
+      <p class="post-meta">
+        <span class="author">{{ author or site.author.name }}</span>
+        <span class="separator">·</span>
+        <time datetime="{{ date | htmlDateString }}">{{ date | readableDate }}</time>
+        <span class="separator">·</span>
+        <span class="reading-time">{{ content | readingTime }} min read</span>
+      </p>
+    </div>
+  </header>
+
+  {% if image %}
+  <div class="post-featured-image">
+    <img src="{{ image }}" alt="{{ title }}" loading="lazy">
+  </div>
+  {% endif %}
+
+  <div class="post-content">
+    {{ content | safe }}
+  </div>
+
+  {% if tags %}
+  <div class="post-tags">
+    <div class="container">
+      {% for tag in tags %}
+        {% if tag != 'posts' %}
+        <a href="/tags/{{ tag | slugify }}/" class="tag">#{{ tag }}</a>
+        {% endif %}
+      {% endfor %}
+    </div>
+  </div>
+  {% endif %}
+
+  <div class="share-buttons">
+    <button class="share-btn twitter" onclick="shareOnTwitter('{{ site.url }}{{ page.url }}', '{{ title }}')">Share on X</button>
+    <button class="share-btn facebook" onclick="shareOnFacebook('{{ site.url }}{{ page.url }}')">Share on Facebook</button>
+    <button class="share-btn linkedin" onclick="shareOnLinkedIn('{{ site.url }}{{ page.url }}', '{{ title }}')">Share on LinkedIn</button>
+    <button class="share-btn copy" onclick="copyLink('{{ site.url }}{{ page.url }}')">Copy Link</button>
+  </div>
+
+  <div class="like-section">
+    <button class="like-btn" onclick="toggleLike('{{ page.fileSlug }}')">❤️ Like this post</button>
+    <p class="like-count">Loading...</p>
+  </div>
+
+  <section class="comments-section" id="comments">
+    <h3>Comments</h3>
+    <form class="comment-form" id="comment-form">
+      <input type="text" name="author" placeholder="Your name" required>
+      <textarea name="comment" placeholder="Share your thoughts..." required></textarea>
+      <button type="submit">Post Comment</button>
+    </form>
+    <div class="comments-list">
+      <p>Loading comments...</p>
+    </div>
+  </section>
+</article>
+
+{% block scripts %}
+<script>
+  document.addEventListener('DOMContentLoaded', function() {
+    const slug = '{{ page.fileSlug }}';
+    loadComments(slug);
+    loadLikeCount(slug);
+    const commentForm = document.getElementById('comment-form');
+    if (commentForm) {
+      commentForm.addEventListener('submit', async (e) => {
+        e.preventDefault();
+        const author = commentForm.querySelector('[name="author"]').value;
+        const text = commentForm.querySelector('[name="comment"]').value;
+        const btn = commentForm.querySelector('button');
+        btn.textContent = 'Posting...';
+        btn.disabled = true;
+        const success = await submitComment(slug, author, text);
+        if (success) { commentForm.reset(); btn.textContent = 'Posted!'; }
+        else { btn.textContent = 'Error - Try Again'; }
+        setTimeout(() => { btn.textContent = 'Post Comment'; btn.disabled = false; }, 2000);
+      });
+    }
+  });
+</script>
+{% endblock %}
