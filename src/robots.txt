@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://the-hot-mess.untitledpublishers.com/sitemap.xml
