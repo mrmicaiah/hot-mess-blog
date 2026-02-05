@@ -1,0 +1,50 @@
+{
+  "name": "The Hot Mess",
+  "tagline": "Still tripping. Still forgiven. Still showing up.",
+  "description": "Still tripping. Still forgiven. Still showing up.",
+  "url": "https://the-hot-mess.untitledpublishers.com",
+  "author": {
+    "name": "Irene D",
+    "email": "thehotmess@untitledpublishers.com"
+  },
+  "logo": "",
+  "favicon": "https://res.cloudinary.com/dxzw1zwez/image/upload/v1769650355/hotmess_logo_yzjifa.webp",
+  "colors": {
+    "primary": "#D4A574",
+    "primaryDark": "#B8895E",
+    "background": "#3D3529",
+    "surface": "#4A4238",
+    "text": "#F5EDE0",
+    "textMuted": "#C4B8A8",
+    "border": "#5A5045"
+  },
+  "fonts": {
+    "serif": "Libre Baskerville",
+    "sans": "Inter"
+  },
+  "social": {
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": ""
+  },
+  "analytics": {
+    "ga4Id": "",
+    "facebookPixelId": ""
+  },
+  "api": {
+    "blogId": "the-hot-mess",
+    "workerUrl": "https://up-blogs-1.micaiah-tasks.workers.dev",
+    "courierListId": "d025bdf6-7b20-4fbf-b687-2e5050a68b26"
+  },
+  "navigation": [
+    { "label": "Home", "url": "/" },
+    { "label": "Archive", "url": "/archive/" },
+    { "label": "About", "url": "/about/" }
+  ],
+  "footerLinks": [
+    { "label": "RSS", "url": "/feed.xml" },
+    { "label": "Subscribe", "url": "/#subscribe" }
+  ],
+  "copyright": "Untitled Publishers"
+}
