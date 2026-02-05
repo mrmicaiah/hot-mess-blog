@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{% if title %}{{ title }} | {% endif %}{{ site.name }}</title>
+  <meta name="description" content="{{ description or site.description }}">
+  <meta property="og:title" content="{{ title or site.name }}">
+  <meta property="og:description" content="{{ description or site.description }}">
+  <meta property="og:type" content="{% if layout == 'post' %}article{% else %}website{% endif %}">
+  <meta property="og:url" content="{{ site.url }}{{ page.url }}">
+  <meta property="og:image" content="{{ image or site.logo | url }}">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="{{ title or site.name }}">
+  <meta name="twitter:description" content="{{ description or site.description }}">
+  <meta name="twitter:image" content="{{ image or site.logo | url }}">
+  {% if site.social.twitter %}<meta name="twitter:site" content="@{{ site.social.twitter }}">{% endif %}
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family={{ site.fonts.serif | replace(' ', '+') }}:ital,wght@0,400;0,700;1,400&family={{ site.fonts.sans | replace(' ', '+') }}:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/css/styles.css">
+  <style>
+    :root {
+      --color-primary: {{ site.colors.primary }};
+      --color-primary-dark: {{ site.colors.primaryDark }};
+      --color-background: {{ site.colors.background }};
+      --color-surface: {{ site.colors.surface }};
+      --color-text: {{ site.colors.text }};
+      --color-text-muted: {{ site.colors.textMuted }};
+      --color-border: {{ site.colors.border }};
+      --font-serif: '{{ site.fonts.serif }}', Georgia, serif;
+      --font-sans: '{{ site.fonts.sans }}', -apple-system, BlinkMacSystemFont, sans-serif;
+    }
+  </style>
+  <link rel="icon" href="{{ site.favicon }}" type="image/x-icon">
+  <link rel="alternate" type="application/rss+xml" title="{{ site.name }}" href="{{ site.url }}/feed.xml">
+  <link rel="canonical" href="{{ site.url }}{{ page.url }}">
+  {% block head %}{% endblock %}
+  {% if site.analytics.ga4Id %}
+  <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.analytics.ga4Id }}"></script>
+  <script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','{{ site.analytics.ga4Id }}');</script>
+  {% endif %}
+  {% if site.analytics.facebookPixelId %}
+  <script>!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,document,'script','https://connect.facebook.net/en_US/fbevents.js');fbq('init','{{ site.analytics.facebookPixelId }}');fbq('track','PageView');</script>
+  {% endif %}
+</head>
+<body>
+  <header class="site-header">
+    <div class="container">
+      <a href="/" class="logo">
+        {% if site.logo %}<img src="{{ site.logo }}" alt="{{ site.name }}">
+        {% else %}<span class="logo-text">{{ site.name }}</span>{% endif %}
+      </a>
+      <nav class="main-nav">
+        {% for item in site.navigation %}
+        <a href="{{ item.url }}"{% if page.url == item.url %} aria-current="page"{% endif %}>{{ item.label }}</a>
+        {% endfor %}
+      </nav>
+    </div>
+  </header>
+  <main>{{ content | safe }}</main>
+  <footer class="site-footer">
+    <div class="container">
+      <div class="footer-content">
+        <p>&copy; {{ site.copyright }} {% set year = "now" | date("%Y") %}{{ year }}</p>
+        <div class="footer-links">
+          {% for link in site.footerLinks %}<a href="{{ link.url }}">{{ link.label }}</a>{% endfor %}
+        </div>
+      </div>
+    </div>
+  </footer>
+  <script>window.SITE_CONFIG={blogId:'{{ site.api.blogId }}',workerUrl:'{{ site.api.workerUrl }}',courierListId:'{{ site.api.courierListId }}'};</script>
+  <script src="/js/main.js"></script>
+  {% block scripts %}{% endblock %}
+</body>
+</html>
