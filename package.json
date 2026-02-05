@@ -1,0 +1,19 @@
+{
+  "name": "hot-mess-blog",
+  "version": "1.0.0",
+  "description": "The Hot Mess - Still tripping. Still forgiven. Still showing up.",
+  "scripts": {
+    "build": "eleventy",
+    "dev": "eleventy --serve",
+    "clean": "rm -rf _site"
+  },
+  "devDependencies": {
+    "@11ty/eleventy": "^2.0.1",
+    "@11ty/eleventy-plugin-rss": "^1.2.0",
+    "luxon": "^3.4.4",
+    "markdown-it": "^14.0.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
