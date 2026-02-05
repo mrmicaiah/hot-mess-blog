@@ -1,0 +1,49 @@
+---
+layout: base
+---
+
+<section class="hero">
+  <div class="container">
+    <h1>{{ site.name }}</h1>
+    <p class="tagline">{{ site.tagline }}</p>
+    <form id="subscribe-form" class="subscribe-form">
+      <input type="email" placeholder="Enter your email" required>
+      <button type="submit">Subscribe</button>
+    </form>
+    <p class="subscribe-note">Join our newsletter. No spam, unsubscribe anytime.</p>
+  </div>
+</section>
+
+<section class="posts-section">
+  <div class="container">
+    <h2>Latest Posts</h2>
+    <div class="posts-grid">
+      {% set postslist = collections.posts | head(6) %}
+      {% if postslist.length %}
+        {% for post in postslist %}
+        <article class="post-card">
+          {% if post.data.image %}
+          <a href="{{ post.url }}">
+            <img src="{{ post.data.image }}" alt="{{ post.data.title }}" loading="lazy">
+          </a>
+          {% endif %}
+          <div class="post-card-content">
+            <h3><a href="{{ post.url }}">{{ post.data.title }}</a></h3>
+            <p class="excerpt">{{ post.data.excerpt or post.templateContent | excerpt }}</p>
+            <p class="meta">{{ post.date | readableDate }} · {{ post.templateContent | readingTime }} min read</p>
+          </div>
+        </article>
+        {% endfor %}
+      {% else %}
+        <p class="no-posts">No posts yet. Check back soon!</p>
+      {% endif %}
+    </div>
+    {% if collections.posts.length > 6 %}
+    <div class="view-all">
+      <a href="/archive/" class="btn btn-outline">View All Posts</a>
+    </div>
+    {% endif %}
+  </div>
+</section>
+
+{{ content | safe }}

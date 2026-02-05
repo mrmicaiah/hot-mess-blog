@@ -1,0 +1,35 @@
+---
+layout: base
+---
+
+<section class="archive-section">
+  <div class="container">
+    <header class="archive-header">
+      <h1>{{ title or 'All Posts' }}</h1>
+      {% if description %}
+      <p class="archive-description">{{ description }}</p>
+      {% endif %}
+    </header>
+    
+    <div class="posts-list">
+      {% set postslist = collections.posts %}
+      {% if postslist.length %}
+        {% for post in postslist %}
+        <article class="post-list-item">
+          <div class="post-list-meta">
+            <time datetime="{{ post.date | htmlDateString }}">{{ post.date | readableDate }}</time>
+          </div>
+          <div class="post-list-content">
+            <h2><a href="{{ post.url }}">{{ post.data.title }}</a></h2>
+            <p>{{ post.data.excerpt or post.templateContent | excerpt }}</p>
+          </div>
+        </article>
+        {% endfor %}
+      {% else %}
+        <p class="no-posts">No posts yet. Check back soon!</p>
+      {% endif %}
+    </div>
+  </div>
+</section>
+
+{{ content | safe }}
