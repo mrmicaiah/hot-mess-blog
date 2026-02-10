@@ -3,13 +3,6 @@ title: "In Which I Learn That Sometimes God Sends Angels in Flannel Shirts"
 date: 2026-02-10
 excerpt: "Betsy exploded at 9:47 AM on the busiest Saturday of the month. Okay, \"exploded\" is dramatic. She didn't explode. She made a sound like a dying whale, hissed steam in three directions at once, and..."
 author: Irene D
-tags:
-  - Todd
-  - Betsy
-  - community
-  - generosity
-  - grace
-  - Levi
 ---
 
 Betsy exploded at 9:47 AM on the busiest Saturday of the month.
@@ -20,7 +13,7 @@ I was mid-pour on a cappuccino for Mrs. Thomas, who comes every Saturday at 9:45
 
 "Oh," I said. Very calmly. Very professionally.
 
-Then I said several other things that I probably shouldn't say in a Christian coffee shop.[^1]
+Then I said several other things that I probably shouldn't say in a Christian coffee shop.¹
 
 Mrs. Thomas looked alarmed.
 
@@ -88,7 +81,7 @@ Different customer. Then another. And another.
 
 Saturday kept happening.
 
-I made pour-overs. A lot of pour-overs. I explained approximately 47 times that the espresso machine was "temporarily out of service" (which sounds better than "dead and taking my dreams with it"). I smiled. I nodded. I handed out coffee in a clean, well-lighted place of complete internal panic.[^2]
+I made pour-overs. A lot of pour-overs. I explained approximately 47 times that the espresso machine was "temporarily out of service" (which sounds better than "dead and taking my dreams with it"). I smiled. I nodded. I handed out coffee in a clean, well-lighted place of complete internal panic.²
 
 At 12:30, the door chimed again.
 
@@ -208,7 +201,7 @@ Todd had shown up. Without being asked. Without even being *thanked* yet for the
 
 Hot chocolate I didn't even remember. Hot chocolate that cost me maybe $12 across a whole week.
 
-And it had come back to me as three hours of skilled labor and $150 in parts.[^3]
+And it had come back to me as three hours of skilled labor and $150 in parts.³
 
 I thought about Mrs. Thomas's sympathy $5. About Jennifer bringing pizza and paint supplies without being asked. About Dad slipping me cash and Mom sending the chair. About the customer last week who left a $20 tip "because you always remember my order."
 
@@ -220,7 +213,7 @@ Things I never expected to see again.
 
 But they were echoing. Rippling. Coming back in ways I'd never track, never predict, never control.
 
-*Community takes care of community.*
+Community takes care of community.
 
 That's what Todd said.
 
@@ -238,8 +231,8 @@ Either way, I'm grateful.
 
 ---
 
-[^1]: I said "dammit" and possibly "hell" and definitely "oh COME ON." I'm working on it. God's working on me. It's a process.
+¹ I said "dammit" and possibly "hell" and definitely "oh COME ON." I'm working on it. God's working on me. It's a process.
 
-[^2]: This is a Hemingway reference. I'm 73% sure. I read it in high school and Jennifer says I do this thing where I reference books accidentally. This is apparently that.
+² This is a Hemingway reference. I'm 73% sure. I read it in high school and Jennifer says I do this thing where I reference books accidentally. This is apparently that.
 
-[^3]: Todd told me the parts cost when I pressed him for specifics so I could "at least cover materials." He folded his arms and gave me a look that said "don't make me regret helping you." I didn't press further. But I'm buying him coffee for the next six months. He can't stop me.
+³ Todd told me the parts cost when I pressed him for specifics so I could "at least cover materials." He folded his arms and gave me a look that said "don't make me regret helping you." I didn't press further. But I'm buying him coffee for the next six months. He can't stop me.
