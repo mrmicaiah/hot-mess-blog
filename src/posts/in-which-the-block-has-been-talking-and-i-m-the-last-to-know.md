@@ -1,6 +1,6 @@
 ---
 title: "In Which the Block Has Been Talking and I'm the Last to Know"
-date: 2026-02-10
+date: 2026-01-30
 excerpt: "I've been on this block for fourteen months, and I've never once crossed the street to Lou's Barber Shop. This isn't an oversight. I wave. He nods. Sometimes, if the weather's particularly..."
 author: Irene D
 tags:
