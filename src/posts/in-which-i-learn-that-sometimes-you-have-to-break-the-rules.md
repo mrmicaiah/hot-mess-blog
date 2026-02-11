@@ -1,6 +1,6 @@
 ---
 title: "In Which I Learn That Sometimes You Have to Break the Rules..."
-date: 2026-02-10
+date: 2025-12-18
 excerpt: "I've been open for seven months, and I've never seen a health inspector. This is not something I was consciously aware of until precisely 10:47 AM on a Tuesday, when a woman in a polo shirt with a..."
 author: Irene D
 ---
