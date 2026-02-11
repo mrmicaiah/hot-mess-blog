@@ -1,6 +1,6 @@
 ---
 title: "In Which I Discover That Being Seen Is Scarier Than Being Invisible"
-date: 2026-02-10
+date: 2025-12-21
 excerpt: "Pastor Coleman caught me after service with what he probably thought was a friendly smile. \"Rena, I've been thinking—your story is incredible. Would you consider sharing your testimony next Sunday?..."
 author: Irene D
 ---
