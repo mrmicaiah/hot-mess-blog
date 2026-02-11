@@ -1,6 +1,6 @@
 ---
 title: "In Which I Ruin an Antique and Make a Friend"
-date: 2026-02-10
+date: 2026-01-11
 excerpt: "The delivery truck arrives at 2:47 PM, which is thirteen minutes early, which shouldn't matter except that I'm in the middle of explaining pour-over technique to a customer who actually wants to..."
 author: Irene D
 ---
