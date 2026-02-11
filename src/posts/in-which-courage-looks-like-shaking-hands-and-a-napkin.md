@@ -1,6 +1,6 @@
 ---
 title: "In Which Courage Looks Like Shaking Hands and a Napkin"
-date: 2026-02-10
+date: 2026-01-10
 excerpt: "She comes in at 2:15 on a Tuesday, and I know something's wrong before she reaches the counter—it's the way she holds herself, shoulders curved inward like she's trying to take up less space than she..."
 author: Irene D
 tags:
