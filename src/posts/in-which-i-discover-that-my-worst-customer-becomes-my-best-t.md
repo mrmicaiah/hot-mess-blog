@@ -1,6 +1,6 @@
 ---
 title: "In Which I Discover That My Worst Customer Becomes My Best Teacher"
-date: 2026-02-10
+date: 2026-01-06
 excerpt: "Let me tell you about Patricia. Patricia comes in every Tuesday and Thursday at 2:15 PM, and I have spent the last four months dreading 2:15 PM on Tuesdays and Thursdays like other people dread..."
 author: Irene D
 tags:
