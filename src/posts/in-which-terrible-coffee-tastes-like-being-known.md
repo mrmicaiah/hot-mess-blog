@@ -1,6 +1,6 @@
 ---
 title: "In Which Terrible Coffee Tastes Like Being Known"
-date: 2026-02-10
+date: 2026-01-24
 excerpt: "The woman orders coffee \"the way my grandmother used to make it,\" and I know exactly what she means before she explains. \"Weak,\" she says, almost apologetically. \"With too much sugar. I know that's..."
 author: Irene D
 tags:
