@@ -1,6 +1,6 @@
 ---
 title: "In Which Meatloaf Becomes a Kind of Rest"
-date: 2026-02-10
+date: 2026-01-09
 excerpt: "The day starts with Betsy leaking and ends with me dropping an entire carafe of cold brew on a customer's laptop, and somewhere in between there's a rush that doesn't stop for three hours and a..."
 author: Irene D
 tags:
