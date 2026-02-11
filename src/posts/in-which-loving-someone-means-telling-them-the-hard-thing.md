@@ -1,6 +1,6 @@
 ---
 title: "In Which Loving Someone Means Telling Them the Hard Thing"
-date: 2026-02-10
+date: 2026-01-28
 excerpt: "Jennifer arrives at 7:03 AM with a clipboard. This is never a good sign. \"Today,\" she announces, letting the door bang shut behind her, \"is your day off.\" \"I don't have days off,\" I say, because I..."
 author: Irene D
 tags:
