@@ -1,6 +1,6 @@
 ---
 title: "In Which I Discover That Some Messes Can't Be Cleaned Up (And That's Okay)"
-date: 2026-02-10
+date: 2026-01-01
 excerpt: "The pipe in my back room exploded at 7:43 AM on a Tuesday. I know the exact time because I was looking at the clock when it happened, calculating how long until I needed to start the first batch of..."
 author: Irene D
 tags:
