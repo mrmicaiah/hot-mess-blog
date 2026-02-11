@@ -1,6 +1,6 @@
 ---
 title: "In Which I Accidentally Start a Revolution with Decaf"
-date: 2026-02-10
+date: 2025-12-08
 excerpt: "I've made approximately 4,847 cups of coffee in my life.[^1] I can tell you the precise water temperature for optimal extraction (203°F), the exact grind size for a pour-over (medium-fine, like sea..."
 author: Irene D
 ---
