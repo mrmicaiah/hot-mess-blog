@@ -1,6 +1,6 @@
 ---
 title: "In Which I Discover That Perfect Isn't on the Menu"
-date: 2026-02-10
+date: 2025-12-07
 excerpt: "I've remade this cappuccino four times. FOUR TIMES. The Instagram DM arrived at 6:47 AM yesterday: \"Hi! I'm Ruby Freshly, food blogger at @ChicagoBitesAndSips. I'll be in the area tomorrow and would..."
 author: Irene D
 ---
