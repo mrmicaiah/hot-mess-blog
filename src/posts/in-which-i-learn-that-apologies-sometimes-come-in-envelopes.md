@@ -1,6 +1,6 @@
 ---
 title: "In Which I Learn That Apologies Sometimes Come in Envelopes"
-date: 2026-02-10
+date: 2025-12-15
 excerpt: "I was not prepared for the post office on a Tuesday afternoon. To be fair, I'm rarely prepared for anything—I once went to the dentist on the wrong day, showed up to Jennifer's birthday party a week..."
 author: Irene D
 tags:
