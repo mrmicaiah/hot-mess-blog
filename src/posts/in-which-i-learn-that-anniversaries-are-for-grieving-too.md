@@ -1,6 +1,6 @@
 ---
 title: "In Which I Learn That Anniversaries Are for Grieving Too"
-date: 2026-02-10
+date: 2026-02-01
 excerpt: "I woke up crying this morning and I don't know why. That's a lie. I know exactly why. I just don't want to admit it. One year ago today, I drove away from my parents' house with everything I owned..."
 author: Irene D
 tags:
