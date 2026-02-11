@@ -1,6 +1,6 @@
 ---
 title: "In Which I Discover That Home Doesn't Require Matching Cups"
-date: 2026-02-10
+date: 2026-01-16
 excerpt: "The bell rings at 2:47 on a Tuesday, which means Walter. I know this the way I know that Brazilian medium roast smells like hazelnuts and honesty, the way I know the third floorboard creaks, the way..."
 author: Irene D
 ---
