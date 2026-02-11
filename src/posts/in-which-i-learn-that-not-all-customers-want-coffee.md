@@ -1,6 +1,6 @@
 ---
 title: "In Which I Learn That Not All Customers Want Coffee"
-date: 2026-02-10
+date: 2025-12-31
 excerpt: "I've been running The Hot Mess for seven months now, and I thought I understood the patterns. There's the Morning Rush crowd—they want their coffee fast and don't care if I spill a little on the..."
 author: Irene D
 ---
