@@ -1,6 +1,6 @@
 ---
 title: "In Which I Finally Get a Cat and She's Exactly Like Me"
-date: 2026-02-10
+date: 2026-01-02
 excerpt: "I didn't mean to adopt myself in cat form. That wasn't the plan. The plan was a kitten. Something small and fluffy and uncomplicated, the kind of cat you see on Instagram sitting peacefully in a..."
 author: Irene D
 tags:
