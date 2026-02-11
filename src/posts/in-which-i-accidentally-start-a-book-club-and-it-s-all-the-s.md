@@ -1,6 +1,6 @@
 ---
 title: "In Which I Accidentally Start a Book Club and It's All the Shelf's Fault"
-date: 2026-02-10
+date: 2025-12-10
 excerpt: "Someone left a book behind. That's how it started. That's how everything starts, really—with someone leaving something behind and someone else deciding what to do with it. It was a Thursday afternoon..."
 author: Irene D
 ---
