@@ -1,6 +1,6 @@
 ---
 title: "In Which I Learn That Some Battles Are Worth the Spilled Milk"
-date: 2026-02-10
+date: 2025-12-09
 excerpt: "--- Dad texted at 10:47 AM. Just two words: \"Can I visit?\" I stared at my phone for approximately seven minutes[^1] and then did what any rational almost-thirty-year-old woman does when her father..."
 author: Irene D
 tags:
