@@ -1,6 +1,6 @@
 ---
 title: "In Which a Quiet Hour Teaches Me More Than Words Could"
-date: 2026-02-10
+date: 2026-01-17
 excerpt: "The radiator sounds like a cat being stepped on. Slowly. Repeatedly. I've been ignoring it for three days, which is my general approach to problems I don't understand, but this morning it added a new..."
 author: Irene D
 ---
