@@ -1,6 +1,6 @@
 ---
 title: "In Which I Tell You About My Friend Irene and Something She Made"
-date: 2026-02-10
+date: 2026-01-08
 excerpt: "A Facebook group. For moms. Specifically for moms who are tired of being told to \"cherish every moment\" while they're running on four hours of sleep and cold coffee and the kind of adrenaline that..."
 author: Irene D
 tags:
