@@ -1,6 +1,6 @@
 ---
 title: "In Which I Discover That Rain Is Not Actually the Enemy"
-date: 2026-02-10
+date: 2025-12-12
 excerpt: "The weather app said \"scattered showers.\" This is not scattered showers. This is biblical. This is ark-building weather. This is the kind of rain that makes you wonder if you've somehow personally..."
 author: Irene D
 tags:
