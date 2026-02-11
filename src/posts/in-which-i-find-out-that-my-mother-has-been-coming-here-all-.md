@@ -1,6 +1,6 @@
 ---
 title: "In Which I Find Out That My Mother Has Been Coming Here All Along"
-date: 2026-02-10
+date: 2025-12-30
 excerpt: "I thought I knew all my regulars. This is the thing about running a coffee shop—you start to feel like you *know* people, even when you don't. You know that the guy who comes in at 7:15 every weekday..."
 author: Irene D
 ---
