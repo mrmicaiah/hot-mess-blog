@@ -1,6 +1,6 @@
 ---
 title: "In Which I Realize That Failure Is Just Success in a Different Font"
-date: 2026-02-10
+date: 2025-12-19
 excerpt: "I've been trying to make croissants for four days. Actually, that's not accurate. I've been *failing* to make croissants for four days. There's a difference.¹ Attempt One ended up as hockey pucks...."
 author: Irene D
 ---
