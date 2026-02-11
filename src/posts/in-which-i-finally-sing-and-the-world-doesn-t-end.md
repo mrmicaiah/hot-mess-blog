@@ -1,6 +1,6 @@
 ---
 title: "In Which I Finally Sing and the World Doesn't End"
-date: 2026-02-10
+date: 2025-12-28
 excerpt: "Someone left a karaoke machine at The Hot Mess. I should clarify: someone left a karaoke machine at The Hot Mess after the Mitchell family's daughter's fifteenth birthday party, which I had agreed to..."
 author: Irene D
 ---
