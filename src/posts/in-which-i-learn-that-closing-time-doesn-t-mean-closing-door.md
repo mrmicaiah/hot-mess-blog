@@ -1,6 +1,6 @@
 ---
 title: "In Which I Learn That Closing Time Doesn't Mean Closing Doors"
-date: 2026-02-10
+date: 2025-12-13
 excerpt: "It's 9:47 PM on a Tuesday in December, and I'm bone-tired in that way where your feet hurt and your back hurts and even your hair somehow hurts.[^1] The Hot Mess is finally clean—well, \"clean\" by my..."
 author: Irene D
 tags:
