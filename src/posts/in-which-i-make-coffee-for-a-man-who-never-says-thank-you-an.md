@@ -1,6 +1,6 @@
 ---
 title: "In Which I Make Coffee for a Man Who Never Says Thank You and That's Exactly Right"
-date: 2026-02-11
+date: 2026-01-12
 excerpt: "The apartment is silent at 5:47 AM, which is when I start the ritual. French press today. Ethiopian Yirgacheffe—the floral one, jasmine notes, the one Noah requested in his single piece of..."
 author: Irene D
 tags:
