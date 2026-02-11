@@ -1,6 +1,6 @@
 ---
 title: "In Which I Discover That Excellence and Perfection Are Not the Same Thing"
-date: 2026-02-10
+date: 2025-12-14
 excerpt: "Sterling Ashworth walked into The Hot Mess at 10:37 AM on a Tuesday, and I knew immediately that I was doomed. Not doomed in the \"Betsy's leaking again\" way or the \"I've knocked over the sugar caddy..."
 author: Irene D
 tags:
