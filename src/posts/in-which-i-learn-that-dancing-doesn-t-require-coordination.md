@@ -1,6 +1,6 @@
 ---
 title: "In Which I Learn That Dancing Doesn't Require Coordination"
-date: 2026-02-10
+date: 2026-01-05
 excerpt: "Jennifer texted me at 7:43 AM on a Tuesday, which should have been my first warning sign. Nobody texts good news at 7:43 AM on a Tuesday. That's the time slot reserved for dental appointment..."
 author: Irene D
 ---
