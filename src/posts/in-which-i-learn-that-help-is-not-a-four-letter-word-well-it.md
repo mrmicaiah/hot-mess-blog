@@ -1,6 +1,6 @@
 ---
 title: "In Which I Learn That Help Is Not a Four-Letter Word (Well, It Is, But Not Like That)"
-date: 2026-02-10
+date: 2026-01-07
 excerpt: "It started with the espresso machine making a sound I'd never heard before. Not a *bad* sound, exactly. More like a wheeze. A mechanical sigh. The kind of noise that says, \"I'm fine, everything's..."
 author: Irene D
 tags:
