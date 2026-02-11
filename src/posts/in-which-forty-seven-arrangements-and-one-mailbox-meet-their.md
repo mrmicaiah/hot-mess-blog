@@ -1,6 +1,6 @@
 ---
 title: "In Which Forty-Seven Arrangements and One Mailbox Meet Their Match"
-date: 2026-02-10
+date: 2026-01-27
 excerpt: "Jamie from Petal & Vine is standing in my doorway at 6:47 AM, and she looks like someone who has recently fought a war and lost. \"Coffee,\" she says. \"Industrial strength. I don't care if it's legal.\"..."
 author: Irene D
 tags:
