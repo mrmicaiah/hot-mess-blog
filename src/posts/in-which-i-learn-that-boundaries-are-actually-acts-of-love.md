@@ -1,6 +1,6 @@
 ---
 title: "In Which I Learn That Boundaries Are Actually Acts of Love"
-date: 2026-02-10
+date: 2025-12-27
 excerpt: "Owen Harris started coming to The Hot Mess three months ago. He seemed nice. Lonely, maybe—the kind of person who lingered over his Americano, asked thoughtful questions about the coffee, told me..."
 author: Irene D
 ---
