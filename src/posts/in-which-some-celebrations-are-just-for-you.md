@@ -1,6 +1,6 @@
 ---
 title: "In Which Some Celebrations Are Just for You"
-date: 2026-02-10
+date: 2026-02-02
 excerpt: "I find the adoption paperwork while looking for my W-2. This is not how I intended to spend my Sunday morning. I intended to spend my Sunday morning drinking coffee and ignoring my responsibilities..."
 author: Irene D
 tags:
