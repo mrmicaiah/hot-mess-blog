@@ -1,6 +1,6 @@
 ---
 title: "In Which I Go Looking for Flowers and Find Someone Who Understands"
-date: 2026-02-10
+date: 2026-01-13
 excerpt: "Jamie's shop smells like green things and water and something floral I can't identify. Petal & Vine. I've walked past it maybe two hundred times, always meaning to go in, never actually doing it...."
 author: Irene D
 ---
