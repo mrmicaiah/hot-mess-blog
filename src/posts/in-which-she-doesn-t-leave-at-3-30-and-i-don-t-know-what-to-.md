@@ -1,6 +1,6 @@
 ---
 title: "In Which She Doesn't Leave at 3:30 and I Don't Know What to Do"
-date: 2026-02-10
+date: 2026-01-25
 excerpt: "Thursdays at 3 PM, I have a black coffee ready before the bell finishes ringing. Grace doesn't know I do this. Or maybe she does and has chosen not to acknowledge it, which would be very Grace of..."
 author: Irene D
 tags:
