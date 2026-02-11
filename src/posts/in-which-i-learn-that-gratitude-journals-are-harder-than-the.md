@@ -1,6 +1,6 @@
 ---
 title: "In Which I Learn That Gratitude Journals Are Harder Than They Look"
-date: 2026-02-10
+date: 2025-12-22
 excerpt: "Jennifer showed up at my apartment door with takeout and a gift bag, which meant either (a) she had exciting news, (b) she needed something, or (c) both. With Jennifer it's usually both. \"I brought..."
 author: Irene D
 ---
