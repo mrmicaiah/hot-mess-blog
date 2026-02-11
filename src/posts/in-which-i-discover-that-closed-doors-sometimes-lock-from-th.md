@@ -1,6 +1,6 @@
 ---
 title: "In Which I Discover That Closed Doors Sometimes Lock From the Inside"
-date: 2026-02-10
+date: 2025-12-11
 excerpt: "I locked myself out of my apartment wearing pajamas, no phone, no shoes, and coffee stains that made it look like I'd lost a fight with a French press. It was 10:47 on a Sunday morning. I know this..."
 author: Irene D
 ---
