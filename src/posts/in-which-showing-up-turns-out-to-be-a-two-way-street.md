@@ -1,6 +1,6 @@
 ---
 title: "In Which Showing Up Turns Out to Be a Two-Way Street"
-date: 2026-02-10
+date: 2026-01-26
 excerpt: "The scones are burning. I can smell it from across the shop—that particular char that means I got distracted again, probably by the espresso grinder which has been making a noise like a wounded..."
 author: Irene D
 tags:
