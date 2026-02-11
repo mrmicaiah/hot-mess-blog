@@ -1,6 +1,6 @@
 ---
 title: "In Which I Ruin a Marriage Proposal and Accidentally Save One Instead"
-date: 2026-02-10
+date: 2025-12-11
 excerpt: "I've been practicing latte art for three days. Not regular latte art—I can do hearts and rosettas in my sleep (literally; I once dreamed about pour technique and woke up trying to steam my..."
 author: Irene D
 ---
