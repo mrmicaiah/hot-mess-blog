@@ -1,6 +1,6 @@
 ---
 title: "In Which I Accidentally Become the Town Therapist"
-date: 2026-02-10
+date: 2025-12-16
 excerpt: "I opened The Hot Mess this morning at 7 AM planning to serve coffee. That was the plan. Make espresso. Steam milk. Maybe knock over the sugar caddy once or twice for authenticity. Go home at 6 PM..."
 author: Irene D
 ---
