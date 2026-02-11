@@ -1,6 +1,6 @@
 ---
 title: "In Which Christmas Morning Brings the Most Unexpected Gift"
-date: 2026-02-10
+date: 2025-12-25
 excerpt: "I woke up at 7:23 AM on Christmas morning in my apartment above The Hot Mess, and my first thought was: *I'm fine with this.* My second thought was: *I need to be fine with this.* My third thought..."
 author: Irene D
 tags:
