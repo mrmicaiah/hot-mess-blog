@@ -1,6 +1,6 @@
 ---
 title: "In Which We're Moving (Not the Shop, Just the Words)"
-date: 2026-02-10
+date: 2026-01-31
 excerpt: "So. Here's the thing about me and technology: we have what I'd call a \"complicated relationship.\" The kind where I accidentally close seventeen browser tabs while trying to open one, and the WiFi..."
 author: Irene D
 tags:
