@@ -1,6 +1,6 @@
 ---
 title: "In Which I Bring Tea Like a Traitor and Leave Like a Daughter"
-date: 2026-02-10
+date: 2026-01-29
 excerpt: "Dad calls at 11:47 on a Tuesday, which is how I know something's wrong because Dad doesn't call during work hours unless someone's dead or dying, and even then he'd probably text first to ask if I..."
 author: Irene D
 tags:
