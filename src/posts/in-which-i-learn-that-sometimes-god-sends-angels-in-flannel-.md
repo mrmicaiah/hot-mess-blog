@@ -3,6 +3,13 @@ title: "In Which I Learn That Sometimes God Sends Angels in Flannel Shirts"
 date: 2026-02-10
 excerpt: "Betsy exploded at 9:47 AM on the busiest Saturday of the month. Okay, \"exploded\" is dramatic. She didn't explode. She made a sound like a dying whale, hissed steam in three directions at once, and..."
 author: Irene D
+tags:
+  - Todd
+  - Betsy
+  - community
+  - generosity
+  - grace
+  - Levi
 ---
 
 Betsy exploded at 9:47 AM on the busiest Saturday of the month.
