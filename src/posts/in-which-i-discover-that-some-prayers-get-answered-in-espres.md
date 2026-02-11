@@ -1,6 +1,6 @@
 ---
 title: "In Which I Discover That Some Prayers Get Answered in Espresso Form"
-date: 2026-02-10
+date: 2025-12-17
 excerpt: "I woke up at 5 AM because anxiety doesn't believe in sleeping in. The numbers were doing their thing again—the thing where they line up in my head like soldiers, merciless and precise. Rent: $875,..."
 author: Irene D
 ---
