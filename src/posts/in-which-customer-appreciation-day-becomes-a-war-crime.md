@@ -1,6 +1,6 @@
 ---
 title: "In Which Customer Appreciation Day Becomes a War Crime"
-date: 2026-02-10
+date: 2026-01-21
 excerpt: "Jennifer arrives at 1 PM with three canvas bags, a stepladder, and the kind of enthusiasm that makes my left eye twitch, which is never a good sign but is an especially bad sign when the bags appear..."
 author: Irene D
 ---
