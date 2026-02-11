@@ -1,6 +1,6 @@
 ---
 title: "In Which Glad It Fits Means Something Else Entirely"
-date: 2026-02-10
+date: 2026-01-22
 excerpt: "The package is on my doorstep when I get home, tucked against the frame like it's been waiting patiently, and I know who it's from before I pick it up because I'd recognize that handwriting..."
 author: Irene D
 ---
