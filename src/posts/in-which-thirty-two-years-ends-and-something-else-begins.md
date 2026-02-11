@@ -1,6 +1,6 @@
 ---
 title: "In Which Thirty-Two Years Ends and Something Else Begins"
-date: 2026-02-10
+date: 2026-01-03
 excerpt: "Patricia is wearing lipstick. This might not sound significant. People wear lipstick all the time. It's a normal human activity that millions of people engage in daily without it being worthy of..."
 author: Irene D
 tags:
