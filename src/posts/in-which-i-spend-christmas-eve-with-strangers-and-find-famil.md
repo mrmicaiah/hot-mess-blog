@@ -1,6 +1,6 @@
 ---
 title: "In Which I Spend Christmas Eve with Strangers and Find Family"
-date: 2026-02-10
+date: 2025-12-24
 excerpt: "I almost didn't go. I was sitting in my car outside Todd's parents' house at 6:47 PM on Christmas Eve, engine running, hands on the steering wheel, having a full existential crisis about green bean..."
 author: Irene D
 tags:
