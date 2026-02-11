@@ -1,6 +1,6 @@
 ---
 title: "In Which a Blurry Photo of Biscuits Says Everything We Can't"
-date: 2026-02-10
+date: 2026-01-18
 excerpt: "The father is maybe sixty, with a gray beard and the kind of hands that look like they've built things. He's helping his daughter carry boxes to her car—she just graduated, she told me earlier,..."
 author: Irene D
 ---
