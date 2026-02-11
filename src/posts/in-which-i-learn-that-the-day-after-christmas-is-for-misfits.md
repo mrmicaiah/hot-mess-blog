@@ -1,6 +1,6 @@
 ---
 title: "In Which I Learn That the Day After Christmas Is for Misfits"
-date: 2026-02-10
+date: 2025-12-26
 excerpt: "I opened the shop on December 26th because it was Friday. That's it. That's the whole reason. The Hot Mess is open Tuesday through Saturday, and December 26th fell on a Friday this year, so I opened...."
 author: Irene D
 tags:
