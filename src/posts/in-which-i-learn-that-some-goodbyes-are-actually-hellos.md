@@ -1,6 +1,6 @@
 ---
 title: "In Which I Learn That Some Goodbyes Are Actually Hellos"
-date: 2026-01-09
+date: 2026-01-14
 excerpt: "There's a table by the window—second from the door, the one that catches the morning light in a way that makes everything look like it belongs in a coffee commercial—and for four years, it belonged..."
 author: Irene D
 tags:
