@@ -1,0 +1,230 @@
+---
+layout: base
+title: Subscribe via RSS
+permalink: /rss/
+---
+
+<section class="rss-page">
+  <div class="container">
+    <h1>Subscribe via RSS</h1>
+    
+    <div class="rss-intro">
+      <p>RSS (Really Simple Syndication) lets you follow {{ site.name }} without algorithms, ads, or giving up your email. New posts come straight to your reader.</p>
+    </div>
+
+    <div class="rss-feed-box">
+      <h2>Your Feed URL</h2>
+      <div class="feed-url-container">
+        <code id="feed-url">{{ site.url }}/feed.xml</code>
+        <button onclick="copyFeedUrl()" class="copy-btn">Copy</button>
+      </div>
+      <p class="feed-instruction">Copy this URL and paste it into your RSS reader.</p>
+    </div>
+
+    <div class="rss-readers">
+      <h2>Popular RSS Readers</h2>
+      <div class="readers-grid">
+        <div class="reader-card">
+          <h3>Feedly</h3>
+          <p>Web & mobile. Free tier available.</p>
+          <a href="https://feedly.com" target="_blank" rel="noopener">feedly.com</a>
+        </div>
+        <div class="reader-card">
+          <h3>NetNewsWire</h3>
+          <p>Free for Mac & iOS. Clean and fast.</p>
+          <a href="https://netnewswire.com" target="_blank" rel="noopener">netnewswire.com</a>
+        </div>
+        <div class="reader-card">
+          <h3>Inoreader</h3>
+          <p>Web & mobile. Powerful free tier.</p>
+          <a href="https://inoreader.com" target="_blank" rel="noopener">inoreader.com</a>
+        </div>
+        <div class="reader-card">
+          <h3>Reeder</h3>
+          <p>Beautiful Mac & iOS app. Paid.</p>
+          <a href="https://reederapp.com" target="_blank" rel="noopener">reederapp.com</a>
+        </div>
+      </div>
+    </div>
+
+    <div class="rss-how">
+      <h2>How to Subscribe</h2>
+      <ol>
+        <li>Pick an RSS reader from above (or use one you already have)</li>
+        <li>Look for "Add feed", "Subscribe", or the + button</li>
+        <li>Paste the feed URL: <code>{{ site.url }}/feed.xml</code></li>
+        <li>That's it! New posts will appear in your reader automatically.</li>
+      </ol>
+    </div>
+
+    <div class="rss-recent">
+      <h2>Recent Posts</h2>
+      <ul class="recent-posts-list">
+        {%- for post in collections.posts | head(5) %}
+        <li>
+          <a href="{{ post.url }}">{{ post.data.title }}</a>
+          <span class="post-date">{{ post.date | readableDate }}</span>
+        </li>
+        {%- endfor %}
+      </ul>
+    </div>
+  </div>
+</section>
+
+<style>
+.rss-page {
+  padding: 3rem 0;
+}
+
+.rss-page h1 {
+  margin-bottom: 1.5rem;
+}
+
+.rss-intro {
+  font-size: 1.1rem;
+  margin-bottom: 2.5rem;
+  max-width: 600px;
+}
+
+.rss-feed-box {
+  background: var(--color-surface);
+  padding: 1.5rem 2rem;
+  border-radius: 8px;
+  margin-bottom: 2.5rem;
+}
+
+.rss-feed-box h2 {
+  margin-top: 0;
+  margin-bottom: 1rem;
+  font-size: 1.2rem;
+}
+
+.feed-url-container {
+  display: flex;
+  gap: 0.75rem;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.feed-url-container code {
+  background: var(--color-background);
+  padding: 0.75rem 1rem;
+  border-radius: 4px;
+  font-size: 0.95rem;
+  flex: 1;
+  min-width: 200px;
+}
+
+.copy-btn {
+  background: var(--color-primary);
+  color: var(--color-background);
+  border: none;
+  padding: 0.75rem 1.25rem;
+  border-radius: 4px;
+  cursor: pointer;
+  font-weight: 500;
+}
+
+.copy-btn:hover {
+  background: var(--color-primary-dark);
+}
+
+.feed-instruction {
+  margin-top: 0.75rem;
+  font-size: 0.9rem;
+  color: var(--color-text-muted);
+}
+
+.rss-readers {
+  margin-bottom: 2.5rem;
+}
+
+.rss-readers h2 {
+  margin-bottom: 1rem;
+}
+
+.readers-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 1rem;
+}
+
+.reader-card {
+  background: var(--color-surface);
+  padding: 1.25rem;
+  border-radius: 8px;
+}
+
+.reader-card h3 {
+  margin: 0 0 0.5rem 0;
+  font-size: 1.1rem;
+}
+
+.reader-card p {
+  margin: 0 0 0.5rem 0;
+  font-size: 0.9rem;
+  color: var(--color-text-muted);
+}
+
+.reader-card a {
+  font-size: 0.9rem;
+}
+
+.rss-how {
+  margin-bottom: 2.5rem;
+}
+
+.rss-how ol {
+  padding-left: 1.5rem;
+}
+
+.rss-how li {
+  margin-bottom: 0.75rem;
+}
+
+.rss-how code {
+  background: var(--color-surface);
+  padding: 0.2rem 0.5rem;
+  border-radius: 3px;
+  font-size: 0.9rem;
+}
+
+.rss-recent h2 {
+  margin-bottom: 1rem;
+}
+
+.recent-posts-list {
+  list-style: none;
+  padding: 0;
+}
+
+.recent-posts-list li {
+  padding: 0.75rem 0;
+  border-bottom: 1px solid var(--color-border);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
+
+.recent-posts-list li:last-child {
+  border-bottom: none;
+}
+
+.post-date {
+  font-size: 0.85rem;
+  color: var(--color-text-muted);
+}
+</style>
+
+<script>
+function copyFeedUrl() {
+  const url = document.getElementById('feed-url').textContent;
+  navigator.clipboard.writeText(url).then(() => {
+    const btn = document.querySelector('.copy-btn');
+    btn.textContent = 'Copied!';
+    setTimeout(() => btn.textContent = 'Copy', 2000);
+  });
+}
+</script>
