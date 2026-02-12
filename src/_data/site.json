@@ -42,7 +42,7 @@
     { "label": "About", "url": "/about/" }
   ],
   "footerLinks": [
-    { "label": "RSS", "url": "/feed.xml" },
+    { "label": "RSS", "url": "/rss/" },
     { "label": "Subscribe", "url": "/#subscribe" }
   ],
   "copyright": "The Hot Mess. An Untitled Publishers blog."
