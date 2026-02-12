@@ -1,6 +1,6 @@
 ---
 title: "In Which I Wait for Criticism That Never Comes"
-date: 2026-02-11
+date: 2026-01-20
 excerpt: "The bell rings at 2:47 PM on a Thursday, and my father is standing in my coffee shop. No warning text. No \"stopping by later\" or \"need anything from town?\" Just David Champion in the doorway, wearing..."
 author: Irene D
 tags:
