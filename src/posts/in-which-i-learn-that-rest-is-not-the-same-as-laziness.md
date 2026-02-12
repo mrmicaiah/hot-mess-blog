@@ -1,6 +1,6 @@
 ---
 title: "In Which I Learn That Rest Is Not the Same as Laziness"
-date: 2026-02-10
+date: 2025-12-29
 excerpt: "Day eighteen started like the previous seventeen: with coffee, determination, and the absolute certainty that I was fine. I was not fine. But I didn't know that yet. Or maybe I did know and was..."
 author: Irene D
 tags:
