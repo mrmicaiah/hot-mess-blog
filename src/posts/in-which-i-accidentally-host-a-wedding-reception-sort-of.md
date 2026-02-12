@@ -1,6 +1,6 @@
 ---
 title: "In Which I Accidentally Host a Wedding Reception (Sort Of)"
-date: 2026-02-10
+date: 2025-12-23
 excerpt: "They walked in at 4:47 PM—I know because I was watching the clock, wondering if anyone else would come in before closing. The couple walked in holding hands like they were the only two people in the..."
 author: Irene D
 tags:
