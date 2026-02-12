@@ -7,7 +7,7 @@
     "name": "Irene D",
     "email": "thehotmess@untitledpublishers.com"
   },
-  "logo": "",
+  "logo": "https://res.cloudinary.com/dxzw1zwez/image/upload/v1769650355/hotmess_logo_yzjifa.webp",
   "favicon": "https://res.cloudinary.com/dxzw1zwez/image/upload/v1769650355/hotmess_logo_yzjifa.webp",
   "colors": {
     "primary": "#D4A574",
@@ -39,7 +39,6 @@
   },
   "navigation": [
     { "label": "Home", "url": "/" },
-    { "label": "Archive", "url": "/archive/" },
     { "label": "About", "url": "/about/" }
   ],
   "footerLinks": [
