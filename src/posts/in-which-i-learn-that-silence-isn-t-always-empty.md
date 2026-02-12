@@ -1,6 +1,6 @@
 ---
 title: "In Which I Learn That Silence Isn't Always Empty"
-date: 2025-12-10
+date: 2025-12-06
 excerpt: "The smoke alarm started screaming at 2:14 AM. I know the exact time because I checked my phone approximately forty-seven times in the next twenty minutes, as if the numbers would somehow explain why..."
 author: Irene D
 ---
