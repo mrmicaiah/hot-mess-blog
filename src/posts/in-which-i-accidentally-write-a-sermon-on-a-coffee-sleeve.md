@@ -1,6 +1,6 @@
 ---
 title: "In Which I Accidentally Write a Sermon on a Coffee Sleeve"
-date: 2026-02-10
+date: 2026-01-04
 excerpt: "It started, like most things in my life, with me not knowing what I was doing. I'd been writing little notes on coffee sleeves for months by the time this happened. Nothing profound—\"Happy Tuesday!\"..."
 author: Irene D
 ---
