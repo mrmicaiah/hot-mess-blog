@@ -1,6 +1,6 @@
 ---
 title: "In Which the Valve Is Fine and He Comes Back Anyway"
-date: 2026-01-20
+date: 2026-01-19
 excerpt: "Betsy starts making the sound at 6:47 AM, thirteen minutes before I'm supposed to open, which is exactly the kind of timing that makes me believe the universe has a sense of humor and I am frequently..."
 author: Irene D
 ---
