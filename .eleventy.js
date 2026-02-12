@@ -26,6 +26,14 @@ module.exports = function(eleventyConfig) {
     return DateTime.fromJSDate(dateObj, { zone: 'utc' }).toISO();
   });
 
+  // Generic date filter for formatting strings like "now"
+  eleventyConfig.addFilter('date', (value, format) => {
+    if (value === 'now') {
+      return DateTime.now().toFormat(format);
+    }
+    return DateTime.fromJSDate(value, { zone: 'utc' }).toFormat(format);
+  });
+
   eleventyConfig.addFilter('readingTime', content => {
     const wordsPerMinute = 200;
     const words = content.split(/\s+/).length;
