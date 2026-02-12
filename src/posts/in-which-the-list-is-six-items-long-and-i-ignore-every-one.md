@@ -1,6 +1,6 @@
 ---
 title: "In Which the List Is Six Items Long and I Ignore Every One"
-date: 2026-02-10
+date: 2026-01-31
 excerpt: "The list is six items long. Inventory the backup milk supply. Email the roaster about next month's order. Call the plumber about the leak under the sink that I've been \"monitoring\" for three weeks,..."
 author: Irene D
 tags:
