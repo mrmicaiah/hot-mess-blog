@@ -27,11 +27,27 @@ module.exports = function(eleventyConfig) {
   });
 
   // Generic date filter for formatting strings like "now"
+  // Luxon uses different format tokens than strftime - %Y becomes yyyy
   eleventyConfig.addFilter('date', (value, format) => {
-    if (value === 'now') {
-      return DateTime.now().toFormat(format);
+    // Convert strftime-style format to Luxon format
+    let luxonFormat = format;
+    if (format) {
+      luxonFormat = format
+        .replace('%Y', 'yyyy')
+        .replace('%m', 'LL')
+        .replace('%d', 'dd')
+        .replace('%H', 'HH')
+        .replace('%M', 'mm')
+        .replace('%S', 'ss');
     }
-    return DateTime.fromJSDate(value, { zone: 'utc' }).toFormat(format);
+    
+    if (value === 'now') {
+      return DateTime.now().toFormat(luxonFormat || 'yyyy');
+    }
+    if (typeof value === 'string') {
+      return DateTime.fromISO(value, { zone: 'utc' }).toFormat(luxonFormat || 'yyyy');
+    }
+    return DateTime.fromJSDate(value, { zone: 'utc' }).toFormat(luxonFormat || 'yyyy');
   });
 
   eleventyConfig.addFilter('readingTime', content => {
