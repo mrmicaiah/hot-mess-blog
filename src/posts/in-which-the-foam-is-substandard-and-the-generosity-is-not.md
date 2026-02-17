@@ -1,6 +1,6 @@
 ---
 title: "In Which the Foam Is Substandard and the Generosity Is Not"
-date: 2026-02-16
+date: 2026-02-15
 excerpt: "Patricia tips one cent. I want to be clear about this — not one dollar, not one percent, one cent. A single penny, placed on the counter next to her exact change with a precision that suggests she..."
 author: Irene D
 tags:
