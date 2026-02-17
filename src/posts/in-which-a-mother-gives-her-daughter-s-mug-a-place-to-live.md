@@ -1,6 +1,6 @@
 ---
 title: "In Which a Mother Gives Her Daughter's Mug a Place to Live"
-date: 2026-02-16
+date: 2026-02-14
 excerpt: "I have the coffee ready at 2:58 because Grace is never late and I am never not ready for her, and these two facts have formed a kind of covenant between us that neither of us has ever spoken out..."
 author: Irene D
 tags:
