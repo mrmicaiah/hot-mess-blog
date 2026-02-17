@@ -1,6 +1,6 @@
 ---
 title: "In Which I Drive Twenty Minutes to Deliver Something He Could Buy Himself"
-date: 2026-02-16
+date: 2026-02-12
 excerpt: "I drive twenty minutes to bring my father coffee beans he could buy himself, and I do it on a Tuesday because Tuesdays feel like neutral territory — not a weekend visit that means something, not a..."
 author: Irene D
 tags:
