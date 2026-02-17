@@ -1,6 +1,6 @@
 ---
 title: "In Which Costa Rican Coffee Tastes Like Spring and a Second-Grader Gets a Dad"
-date: 2026-02-16
+date: 2026-02-13
 excerpt: "He comes in at 2:40 on a Thursday, which is the dead zone — that stretch between the lunch rush that wasn't really a rush and the afternoon regulars who won't arrive for another hour. The shop is..."
 author: Irene D
 tags:
