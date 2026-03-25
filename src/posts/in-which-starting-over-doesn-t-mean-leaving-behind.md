@@ -1,6 +1,6 @@
 ---
 title: "In Which Starting Over Doesn't Mean Leaving Behind"
-date: 2026-03-23
+date: 2026-03-25
 excerpt: "Thursday at 3 PM, the bell rings. I don't have to look up to know it's Grace. Nearly two years of Thursdays have given me a kind of internal clock for her — the soft push of the door, the measured..."
 author: Irene D
 tags:
