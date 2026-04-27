@@ -39,7 +39,7 @@
   },
  "navigation": [
   { "label": "Home", "url": "/" },
-  { "label": "Archive", "url": "/archive/" },
+  { "label": "All Stories", "url": "/All Stories/" },
   { "label": "About", "url": "/about/" }
 ],
   "footerLinks": [
