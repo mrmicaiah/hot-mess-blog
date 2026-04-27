@@ -37,10 +37,11 @@
     "workerUrl": "https://up-blogs-1.micaiah-tasks.workers.dev",
     "courierListId": "d025bdf6-7b20-4fbf-b687-2e5050a68b26"
   },
-  "navigation": [
-    { "label": "Home", "url": "/" },
-    { "label": "About", "url": "/about/" }
-  ],
+ "navigation": [
+  { "label": "Home", "url": "/" },
+  { "label": "Archive", "url": "/archive/" },
+  { "label": "About", "url": "/about/" }
+],
   "footerLinks": [
     { "label": "RSS", "url": "/rss/" },
     { "label": "Subscribe", "url": "/#subscribe" }
